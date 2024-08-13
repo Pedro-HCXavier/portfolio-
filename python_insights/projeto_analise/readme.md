@@ -1,7 +1,7 @@
 ### Python insights
 esse foi um mini curso da Hashtag Treinamentos.
 
-Um intensivão com 4 aulas, cada uma toca em um tópico, caso de uso para o python em resoluções de problemas que tocam a área de TI.
+Um intensivão com 4 aulas, cada aula um projeto Python.
 
 ## O que é esse projeto?
 
