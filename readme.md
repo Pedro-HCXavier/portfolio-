@@ -4,9 +4,9 @@
 
 [Projeto: Web-Scraping](https://github.com/Pedro-HCXavier/portfolio-/blob/main/web-scraping/scrape.ipynb) :tv:
 
-[Analisando tendências](https://github.com/Pedro-HCXavier/portfolio-/blob/423cb49e33f875c56e641bf253cfde5b844b3398/python_insights/projeto_analise/codigo.ipynb) 📊:
+[Analisando tendências](https://github.com/Pedro-HCXavier/portfolio-/blob/423cb49e33f875c56e641bf253cfde5b844b3398/python_insights/projeto_analise/codigo.ipynb) 📊
 
-[Usando IA para fazer previsões](https://github.com/Pedro-HCXavier/portfolio-/blob/423cb49e33f875c56e641bf253cfde5b844b3398/python_insights/projeto_ia/inicial.ipynb) :dependabot::
+[Usando IA para fazer previsões](https://github.com/Pedro-HCXavier/portfolio-/blob/423cb49e33f875c56e641bf253cfde5b844b3398/python_insights/projeto_ia/inicial.ipynb) :dependabot:
 
 ### Certificações
 
