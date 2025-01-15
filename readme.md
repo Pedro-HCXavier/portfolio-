@@ -1,14 +1,16 @@
 ## Portfólio do Pedro :smiley:
 
 ### Python
-[Projeto: Visualização de dados](https://github.com/Pedro-HCXavier/portfolio-/blob/main/visualizacao/empresasEUA/empresasEUA.ipynb) :chart_with_upwards_trend:
+[Visualização de dados](https://github.com/Pedro-HCXavier/portfolio-/blob/main/visualizacao/empresasEUA/empresasEUA.ipynb) :chart_with_upwards_trend:
 
-[Projeto: Web-Scraping](https://github.com/Pedro-HCXavier/portfolio-/blob/main/web-scraping/scrape.ipynb) :tv:
+[Web-Scraping](https://github.com/Pedro-HCXavier/portfolio-/blob/main/web-scraping/scrape.ipynb) :tv:
 
 [Analisando tendências](https://github.com/Pedro-HCXavier/portfolio-/blob/423cb49e33f875c56e641bf253cfde5b844b3398/python_insights/projeto_analise/codigo.ipynb) 📊
 
 [Usando IA para fazer previsões](https://github.com/Pedro-HCXavier/portfolio-/blob/423cb49e33f875c56e641bf253cfde5b844b3398/python_insights/projeto_ia/inicial.ipynb) :dependabot:
 
+### Node.js
+[Gerador de senhas com MongoDB e Docker](https://github.com/Pedro-HCXavier/portfolio-/tree/main/electronApp) :lock:
 
 ### Certificações
 
