@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "db": "node app/db/db.js",
+    "start": "electron .",
+    "server": "node express.js"
+  },
+  "devDependencies": {
+    "electron": "^33.2.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.0"
+  }
+}

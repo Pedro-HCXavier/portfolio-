@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="public/style.css">
+    <meta charset="UTF-8">
+    <title>Eletriko!</title>
+  </head>
+  <body>
+    <!--Informações da conta-->
+    <header class="header">
+      Essa área vai mostrar o usuário logado e as opções
+    </header>    
+    <h1>Administrador de senhas</h1>
+    
+
+    <!--Gerador de senhas-->
+    <div class="container">      
+      <label>Numero de caracteres</label>
+      <input type="number" id="numero"/> 
+
+      <label>Descrição</label>
+      <input type="text" id="descricao"/> <br> <br>
+      
+      <button id="gerar-senha">Gerar Senha</button> &ThinSpace; &spades; &ThinSpace; <button id="salvar-senha">Salvar senha</button> <br>
+      
+      <span class="output" id="resultado"></span>
+    </div>
+    
+    <div class="container">
+      <label>Senhas salvas</label>
+      <button id="carregar-senhas">Carregar Senhas &circlearrowright;</button>
+      <div id="container"></div>
+    </div>
+  </body>
+  <script src="script.js"></script>
+  </html>

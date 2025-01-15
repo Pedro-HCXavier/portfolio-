@@ -1,0 +1,22 @@
+networks:
+  rede-senhas:
+    driver: bridge
+services:
+  appElectron:
+    build: .
+    image: appsenhas
+    ports:
+      - "3000:3000"
+    depends_on:
+      - dbElectron
+    networks:
+      - rede-senhas
+  dbElectron:
+    container_name: dbElectron
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    environment:
+      - MONGO_DB_USER=root
+    networks:
+      - rede-senhas
